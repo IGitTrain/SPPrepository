@@ -1,0 +1,32 @@
+Requisite Location Report
+Summary report:
+SPPLIVE objects:
+    Objects with requisites in library SPPLIVE: 7
+    Objects with requisites in library SPPLIVE: 7
+    Objects with requisites in library SPPSRC: 13
+
+Detail report:
+SPPLIVE objects:
+    Objects with requisites in library SPPLIVE:
+        *FILE LF        SPPLIVE/CUSMSTL1                    
+        *FILE LF        SPPLIVE/CUSMSTL2                    
+        *FILE LF        SPPLIVE/CUSMSTL3                    
+        *FILE DSPF      SPPLIVE/MNTMENU                     
+        *FILE DSPF      SPPLIVE/SCHNAMD                     
+        *FILE DSPF      SPPLIVE/SCHZIPD                     
+        *PGM RPGLE      SPPLIVE/CUSTMAINT                   
+    Objects with requisites in library SPPSRC:
+        *CMD            SPPLIVE/CUSTMAINT                   
+        *FILE PF        SPPLIVE/CUSMST                      
+        *FILE LF        SPPLIVE/CUSMSTL1                    
+        *FILE LF        SPPLIVE/CUSMSTL2                    
+        *FILE LF        SPPLIVE/CUSMSTL3                    
+        *FILE DSPF      SPPLIVE/MAINMENU                    
+        *FILE DSPF      SPPLIVE/MNTMENU                     
+        *FILE DSPF      SPPLIVE/SCHNAMD                     
+        *FILE DSPF      SPPLIVE/SCHZIPD                     
+        *MODULE RPGLE   SPPLIVE/CUSMAIN                     
+        *MODULE RPGLE   SPPLIVE/CUSMNT                      
+        *MODULE RPGLE   SPPLIVE/SCHNAM                      
+        *MODULE RPGLE   SPPLIVE/SCHZIP                      
+End of Requisite Location Report.

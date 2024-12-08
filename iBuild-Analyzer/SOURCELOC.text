@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+SPPLIVE objects:
+    Objects with source in library SPPSRC: 14
+
+Detail report:
+SPPLIVE objects:
+    Objects with source in library SPPSRC:
+        *MODULE RPGLE   SPPLIVE/CUSMAIN                     
+        *FILE DSPF      SPPLIVE/MAINMENU                    
+        *MODULE RPGLE   SPPLIVE/CUSMNT                      
+        *FILE LF        SPPLIVE/CUSMSTL1                    
+        *FILE PF        SPPLIVE/CUSMST                      
+        *FILE DSPF      SPPLIVE/MNTMENU                     
+        *MODULE RPGLE   SPPLIVE/SCHNAM                      
+        *FILE LF        SPPLIVE/CUSMSTL3                    
+        *FILE DSPF      SPPLIVE/SCHNAMD                     
+        *MODULE RPGLE   SPPLIVE/SCHZIP                      
+        *FILE LF        SPPLIVE/CUSMSTL2                    
+        *FILE DSPF      SPPLIVE/SCHZIPD                     
+        *PGM RPGLE      SPPLIVE/SCHNAMRPG                   
+        *CMD            SPPLIVE/CUSTMAINT                   
+End of Source Location Report.
